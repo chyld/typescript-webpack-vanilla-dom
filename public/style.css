@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+}
+
+.names {
+    color: green;
+}
+
+img {
+    width: 150px;
+    height: 100px;
+}
+
+.dog {
+    border: 1px solid red;
+    background-color: greenyellow;
+}
