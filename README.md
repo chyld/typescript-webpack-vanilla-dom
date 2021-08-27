@@ -1,4 +1,4 @@
-# GENERIC template
+# App
 
-The way to get started is to quit talking and begin doing. -Walt Disney
-
+- To compile, use `npx webpack`
+- To run server, `npx webpack serve`
